@@ -3,7 +3,8 @@
 
 ### Education
 
-    Mcom:Information Systems; Msc:Artificial Intelligence (In Progress).
+    Mcom:Information Systems.
+    Msc:Artificial Intelligence (In Progress).
     
 ### Industry Experience
 
