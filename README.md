@@ -2,7 +2,6 @@
 ### IT Executive
 
 ### Education
-
     Mcom:Information Systems.
     Msc:Artificial Intelligence (In Progress).
     
